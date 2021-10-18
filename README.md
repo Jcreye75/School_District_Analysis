@@ -14,9 +14,9 @@ The school board has notified Maria and her supervisor that the "students_comple
 - ![District_Impact](https://github.com/Jcreye75/School_District_Analysis/blob/88293afe53152bd1b5cc2ae966671a6a45883c8d/Resources/District_Impact.png)
 
 ### How is the school summary affected?
-- In the original analysis, Thomas High School started with a 91% overall passing rate, which was a concern to the school board as being too high.  After calculating the total number of 10th - 12th grade students as the new denominator, the rest of the testing data was adjusted accordingly.  
-
-- Removing the 9th grade students from the data set had a huge impact by dropping from 91% to 65% for the overall passing rate. 
+- In the original analysis, Thomas High School started with a 91% overall passing rate.
+- Removing the 9th grade students from the data set had an impact from 91% to 65% for the overall passing rate. 
+- ![School_Impact](https://github.com/Jcreye75/School_District_Analysis/blob/d23ec2f576fbb8d596ad107df05028133125fe50/Resources/School_Impact.png)
 
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 - In the original analysis, Thomas High School ranked 2nd in the district raising red flags with the school board. 
