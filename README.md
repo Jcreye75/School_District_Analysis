@@ -10,7 +10,7 @@ The school board has notified Maria and her supervisor that the "students_comple
 ## Results
 ### How is the district summary affected?
 - The data contained 461 9th graders at Thomas High School which needed to be turned into null data. This movement recalculated the percentages of math, reading, and overall  passing.  The total count of students maintained the same as the original total student ids was not turned into null data. 
-- The change was less than a 1% difference and the numbers would still round to the same whole number.  
+- The change between the original and adjusted repestendes less than 100 bp on averages, which ends on a similar whole number per value.
 - ![District_Impact](https://github.com/Jcreye75/School_District_Analysis/blob/88293afe53152bd1b5cc2ae966671a6a45883c8d/Resources/District_Impact.png)
 
 ### How is the school summary affected?
