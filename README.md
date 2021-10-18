@@ -19,14 +19,13 @@ The school board has notified Maria and her supervisor that the "students_comple
 ![School_Impact](https://github.com/Jcreye75/School_District_Analysis/blob/d23ec2f576fbb8d596ad107df05028133125fe50/Resources/School_Impact.png)
 
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
-- In the original analysis, Thomas High School was ranked 2nd in the district raising red flags with the school board (91% of overall students passing)
+- In the original analysis, Thomas High School was ranked as 2nd in the district.
 - After adjusting the 9th grade data, Thomas High School ranked at 8th from the bottom. 
 
 ## How does replacing the ninth-grade scores affect the following:
 
 ### Adjusted Averages using the Math and Reading Scores 
-- In the original analysis, Thomas High School had 83.6 math average and 83.7 reading average for the 9th grade tests. 
-Now the scores have been replaced with null values and shows up in Python programming as NaN in the following charts. 
+- In the original analysis, Thomas High School had 83.6 math average and 83.7 reading average for the 9th grade tests. The adjusted and updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaN.
 
 ### Scores by school spending
 - Thomas High School falls in the $630-$644/student spending range. Hundredths formats included to advise nominal changes. Small impact by changing the 9th grade scores. 
@@ -41,9 +40,7 @@ Now the scores have been replaced with null values and shows up in Python progra
 ![SBS_Type](https://github.com/Jcreye75/School_District_Analysis/blob/d3a988efafe4de98b666ed997fa9c8d740fb20f4/Resources/SBS_Type.png)
 
 ## Summary: Summarize four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
-
-1. The overall passing rate for Thomas High School changed dramatically from 91% to 65%. 
-2. Thomas High School's ranking dropped from 2nd to 8th in the district of 15 campuses. 
-3. Data at the grade level will now show as "NaN" in reports for the 9th grade students at Thomas High School  
-4. In addition to the overall passing rate, the campus math and reading averages and passing percentages all saw shifts.  
-The major changes will be seen at the lower views of the disaggregated data with minor impact to the larger data views.
+1. The overall passing rate for Thomas High School dropped from 91% to 65%. 
+2. Thomas High School's ranking dropped from 2nd place to 8th place. The District has 15 campus. 
+3. Thomas High School´s 9th grade students shows a "NaN" as Data in the reports.
+4. Finally, overall, reading and math passing rates, averages and percentages showed minor changes in the category where Thomas High School is ranked (Spending, Size and Type).
