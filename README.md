@@ -29,18 +29,15 @@ The school board has notified Maria and her supervisor that the "students_comple
 Now the scores have been replaced with null values and shows up in Python programming as NaN in the following charts. 
 
 ### Scores by school spending
-- Thomas High School falls in the $630-$644/student spending range.  However, the hundredths place was needed to see the nominal changes. 
-- There was very little spending impact by changing the 9th grade scores. 
+- Thomas High School falls in the $630-$644/student spending range. Hundredths formats included to advise nominal changes. Small impact by changing the 9th grade scores. 
 ![SBS_Spending](https://github.com/Jcreye75/School_District_Analysis/blob/ded45b7ab31deb248697c23a30fad09fadfec574/Resources/SBS_Spending.png)
 
 ### Scores by school size
-- Thomas High School is defined as a medium sized school.  The hundredths place was needed to see the nominal changes.
-- There was very little impact by campus size due to changing the 9th grade scores. 
+- Thomas High School is marked as a medium sized school. Hundredths formats included to advise nominal changes. Small impact in Size by changing the 9th grade scores. 
 ![SBS_Size](https://github.com/Jcreye75/School_District_Analysis/blob/dc7c6a82ac9d5626110f635ff59a20eba30e1af4/Resources/SBS_Size.png)
 
 ### Scores by school type
-- Thomas High School is a charter school type. The hundredths place was needed to see the nominal changes.
-- There was very little impact by school type by changing the 9th grade scores. 
+- Thomas High School is a charter school type. Hundredths formats included to advise nominal changes. Small impact by changing school type for the 9th grade scores. 
 ![SBS_Type](https://github.com/Jcreye75/School_District_Analysis/blob/d3a988efafe4de98b666ed997fa9c8d740fb20f4/Resources/SBS_Type.png)
 
 ## Summary: Summarize four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
