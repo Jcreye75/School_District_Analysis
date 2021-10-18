@@ -39,7 +39,8 @@ The school board has notified Maria and her supervisor that the "students_comple
 - Thomas High School is a charter school type. Hundredths formats included to advise nominal changes. Small impact by changing school type for the 9th grade scores. 
 ![SBS_Type](https://github.com/Jcreye75/School_District_Analysis/blob/d3a988efafe4de98b666ed997fa9c8d740fb20f4/Resources/SBS_Type.png)
 
-## Summary: Summarize four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+## Summary
+### Summarize four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
 1. The overall passing rate for Thomas High School dropped from 91% to 65%. 
 2. Thomas High School's ranking dropped from 2nd place to 8th place. The District has 15 campus. 
 3. Thomas High School´s 9th grade students shows a "NaN" as Data in the reports.
