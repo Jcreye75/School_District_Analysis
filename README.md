@@ -19,9 +19,8 @@ The school board has notified Maria and her supervisor that the "students_comple
 - ![School_Impact](https://github.com/Jcreye75/School_District_Analysis/blob/d23ec2f576fbb8d596ad107df05028133125fe50/Resources/School_Impact.png)
 
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
-- In the original analysis, Thomas High School ranked 2nd in the district raising red flags with the school board. 
-
-- After adjusting the 9th grade data, Thomas High School ranked in the exact middle of 15 campuses at 8th from the bottom. 
+- In the original analysis, Thomas High School was ranked 2nd in the district raising red flags with the school board (91% of overall students passing)
+- After adjusting the 9th grade data, Thomas High School ranked at 8th from the bottom. 
 
 ## How does replacing the ninth-grade scores affect the following:
 
