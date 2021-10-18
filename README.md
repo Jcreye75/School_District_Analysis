@@ -32,12 +32,13 @@ Now the scores have been replaced with null values and shows up in Python progra
 Thomas High School falls in the $630-$644/student spending range.  However, the hundredths place was needed to see the nominal changes. 
 
 There was very little spending impact by changing the 9th grade scores. 
+https://github.com/Jcreye75/School_District_Analysis/blob/dc7c6a82ac9d5626110f635ff59a20eba30e1af4/Resources/SBS_Size.png
 
 ### Scores by school size
 Thomas High School is defined as a medium sized school.  The hundredths place was needed to see the nominal changes.
 
 There was very little impact by campus size due to changing the 9th grade scores. 
-
+https://github.com/Jcreye75/School_District_Analysis/blob/dc7c6a82ac9d5626110f635ff59a20eba30e1af4/Resources/SBS_Size.png
 ### Scores by school type
 Thomas High School is a charter school type. The hundredths place was needed to see the nominal changes.
 
